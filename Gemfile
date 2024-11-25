@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 # https://devcenter.heroku.com/articles/ruby-versions
 ruby '2.4.1'
 
-gem 'sinatra', '1.4.8'
+gem 'sinatra', '4.1.0'
 gem 'sinatra-asset-pipeline', '~> 1.0'
 gem 'rdiscount', '~> 2.2.0'
 gem 'rest-client', '1.2.0'
